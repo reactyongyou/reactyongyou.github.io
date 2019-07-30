@@ -1,3 +1,6 @@
+
+![react学习路线图](./client/image/react_learn.png)
+
 # 在用友中使用的成型组件
 [ant-design的github地址](https://github.com/reactyongyou/ant-design)：https://github.com/reactyongyou/ant-design
 
