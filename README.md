@@ -1,5 +1,5 @@
 
-![react学习路线图](./client/image/react_learn.png)
+
 
 # 在用友中使用的成型组件
 [ant-design的github地址](https://github.com/reactyongyou/ant-design)：https://github.com/reactyongyou/ant-design
@@ -25,3 +25,9 @@
 [react-bootstrap-table的github地址](https://github.com/reactyongyou/react-bootstrap-table)：https://github.com/reactyongyou/react-bootstrap-table
 
 [react-bootstrap-table的教程地址](http://allenfang.github.io/react-bootstrap-table/docs.html)：http://allenfang.github.io/react-bootstrap-table/docs.html
+
+
+
+
+![react学习路线图](./client/image/react_learn.png)
+![react学习路线图](./client/image/git.png)
